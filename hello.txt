@@ -1,3 +1,4 @@
 Hello GitHub!
 I am learning Git and GitHub.
 GitHub makes collaboration easy.
+I am practicing branches on GitHub.
